@@ -5,13 +5,13 @@
 *(np. Klasyfikacja wydźwięku w tweetach o wojnie)*  
 
 **Autor:**  
-Imię i nazwisko  
+Wojciech Siemiątkowski
 
 **Kierunek, rok i tryb studiów:**  
-*(np. Informatyka, semestr V)*  
+Informatyka, studia magisterskie, rok 2 studia internetowe
 
 **Data oddania projektu:**  
-dd.mm.rrrr  
+16.01.2025  
 
 ---
 
@@ -19,16 +19,22 @@ dd.mm.rrrr
 Krótki opis projektu – czego dotyczy, jaki problem rozwiązuje, w jakim kontekście może być użyteczny.  
 
 **Przykład:**  
-> Celem projektu jest klasyfikacja emocji w tekstach z mediów społecznościowych. Projekt pozwala na analizę nastrojów użytkowników Twittera dot. wojny z wykorzystaniem metod NLP i uczenia maszynowego.
+> Celem projektu jest klasyfikacji nastroju/emocji użytkownika na podstawie
+treści recenzji książek. Projekt pozwoli na analizę nastroju użytkownika serwisu
+amazon, co może być ciekawą odmianą od np. wykorzystania danych z
+GoodReads, gdzie pojawiają się recenzje zarówno od osób które kupiły,
+wypożyczyły lub odsłuchały dany tytuł. W przypadku amazona możemy założyć,
+że osoba pisząca recenzje kupiła i przeczytała daną książkę w formie
+papierowej.
 
 ---
 
 ## **3. Dane**
 **Źródło danych:**  
-*(np. HuggingFace, Kaggle, własny zbiór danych)*  
+HuggingFace
 
 **Link do danych:**  
-`https://...`  
+`https://huggingface.co/datasets/cogsci13/Amazon-Reviews-2023-Books-Review`  
 
 **Opis danych:**  
 - liczba próbek:  
