@@ -1,4 +1,4 @@
-1. F+IDF + logistic regression:
+1. F-IDF + logistic regression:
 
               precision    recall  f1-score   support
 
